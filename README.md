@@ -1,2 +1,1 @@
-Notaris ismul mubarok
-Aplikasi Notaris (ismul mubarok)
+notaris.github.io
